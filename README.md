@@ -50,5 +50,5 @@ nodemon index.ts
 
 ## Built With
 
-Connect with <a href="https://www.linkedin.com/in/abdellah-karani-965928294/">me</a>
+BY <a href="https://www.linkedin.com/in/abdellah-karani-965928294/">me</a> < 3
 
