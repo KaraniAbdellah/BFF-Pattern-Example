@@ -47,8 +47,5 @@ nodemon index.ts
 
 **Note:** Make sure you have Node.js and npm installed on your machine before running the setup commands.
 
-
-## Built With
-
 BY <a href="https://www.linkedin.com/in/abdellah-karani-965928294/">me</a> < 3
 
